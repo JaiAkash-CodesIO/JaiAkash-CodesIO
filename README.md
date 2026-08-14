@@ -15,8 +15,10 @@ Currently interning at Digisailor, building VLM and computer vision based AI/ML 
 
 | Category | Technologies |
 |---|---|
-| Languages | Java, Python |
+| Languages | Java, Python, SQL |
 | Backend | Spring Boot, Microservices |
+| Database | MySQL, MongoDB |
+| Platforms | Firebase, Versel, Docker |
 | AI/ML | Computer Vision, VLMs, Detection Systems |
 
 ### Contact
