@@ -1,6 +1,6 @@
 ## Jai Akash K
 
-Software developer with experience in Java, Spring Boot, and microservices architecture, currently expanding into AI/ML with a focus on vision-language models (VLMs) and detection systems.
+Software developer with a strong passion in Java, Spring Boot, and microservices architecture, currently expanding into AI/ML with a focus on vision-language models (VLMs) and detection systems.
 
 Currently interning at Digisailor, building VLM and computer vision based AI/ML systems.
 
@@ -16,10 +16,10 @@ Currently interning at Digisailor, building VLM and computer vision based AI/ML 
 | Category | Technologies |
 |---|---|
 | Languages | Java, Python, SQL |
-| Backend | Spring Boot, Microservices |
-| Database | MySQL, MongoDB |
-| Platforms | Firebase, Versel, Docker |
-| AI/ML | Computer Vision, VLMs, Detection Systems |
+| Frameworks | Spring Boot, Microservices |
+| Database | MySQL, MongoDB, Firestore |
+| Platforms | Firebase, Versel, Docker, Git, Github |
+| AI/ML | Computer Vision, VLM, Detection Systems |
 
 ### Contact
 
